@@ -1,3 +1,8 @@
 #intestazione{
     background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+#scritta{
+    color: blue;
 }
