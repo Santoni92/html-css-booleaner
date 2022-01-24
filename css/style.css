@@ -1,6 +1,7 @@
 #intestazione{
+    /*background-color:;*/
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 300px;
 }
 
 #scritta{
