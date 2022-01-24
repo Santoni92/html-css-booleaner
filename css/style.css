@@ -1,24 +1,38 @@
 #intestazione{
     width: 100%;
-    height: 50px;
+    height: 100px;
     background-image: url(../img/pattern.png);
     background-repeat: no-repeat; 
     background-color: blue;
+}
+
+#logo{
+    width: 120px;
+    height:70px;
 }
 
 #scritta{
     color: blue;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .celeste-scuro{
     background-color:dodgerblue;
+    margin:1px;
+    padding:1px;
 
 }
 
 #head-tabella{
     background-color: royalblue;
+    margin:1px;
+    padding:1px;
 }
 
 .sottolineatura-gialla{
     background-color: yellow;
 }
+
