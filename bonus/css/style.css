@@ -45,7 +45,8 @@ table{
 }
 
 th,td{
-    padding: 10px;
+    width: 5%;
+    padding: 5px;
     text-align: center;
 }
 
