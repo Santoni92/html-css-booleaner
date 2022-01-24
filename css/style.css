@@ -28,6 +28,11 @@ table{
     border-collapse: collapse;
 }
 
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+
 .celeste-scuro{
     background-color:dodgerblue;
     margin:1px;
