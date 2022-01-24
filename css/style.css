@@ -2,7 +2,7 @@
     width: 100%;
     background-image: url(../img/pattern.png);
     background-repeat: repeat; 
-    background-color: blue;
+    background-color: rgb(86, 159, 241);
     margin-bottom: 40px;
 }
 
@@ -15,6 +15,12 @@
     font-weight: 100;
 }
 
+.informazioni-autore-articolo{
+    color:darkgray;
+    font-weight: 900;
+    font-size: 20px;
+}
+
 #immagini{
     margin-top: 40px;
 }
@@ -25,7 +31,8 @@
 }
 
 #scritta{
-    color: blue;
+    color: rgb(57, 138, 245);
+    font-weight: 800;
 }
 
 table{
