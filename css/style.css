@@ -7,8 +7,9 @@
     margin-bottom: 40px;
 }
 
-#sezione-principale{
-    padding: 20px;
+#logo{
+    width: 130px;
+    height:50px;
 }
 
 #titolo{
@@ -22,18 +23,17 @@
     font-size: 20px;
 }
 
+#scritta{
+    color: rgb(57, 138, 245);
+    font-weight: 800;
+}
+
 #immagini{
     margin-top: 40px;
 }
 
-#logo{
-    width: 130px;
-    height:50px;
-}
-
-#scritta{
-    color: rgb(57, 138, 245);
-    font-weight: 800;
+#sezione-principale{
+    padding: 20px;
 }
 
 table{
@@ -45,15 +45,15 @@ th,td{
     text-align: center;
 }
 
-.riga-body-table{
-    background-color:rgb(142, 194, 246);
+#head-tabella{
+    color:white;
+    background-color: rgb(9, 65, 233);
     margin:1px;
     padding:1px;
 }
 
-#head-tabella{
-    color:white;
-    background-color: rgb(9, 65, 233);
+.riga-body-table{
+    background-color:rgb(142, 194, 246);
     margin:1px;
     padding:1px;
 }
