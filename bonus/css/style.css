@@ -74,7 +74,19 @@ th,td{
     font-size: 20px;
 }
 
-#ultima-immagine{
-    margin-top:15px; /*l'ultima immagine in fondo alla pagina è distaccata
-                     da quella che gli sta subito sopra*/
+#bg-img-1{
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    font-weight: 800;
+}
+
+#bg-img-2{
+    height: 200px;;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    font-weight: 800;
+    margin-top: 30px;
 }
