@@ -37,10 +37,12 @@
 
 #immagini{
     margin-top: 40px;
+    padding-left:20px;
+    padding-right:20px;
 }
 
 #sezione-principale{
-    padding: 20px;
+    padding: 15px;
 }
 
 table{
